@@ -1,22 +1,18 @@
-let resultado = 4 + 5;
-let resta = 10 - 32;
+//operadores logicas
+//ejemplo 1
+const nombre = "leonel";
+const edad = 18;
+const tieneEntrada = true
+const permisoPadres = true
 
-let modulo = 14 % 3
+mayorEdad = edad >= 18
 
-console.log(modulo)
-
- num = 10
- num++
- console.log(num)
-
- let cantidad = 20;
-cantidad += 5;
-console.log(cantidad)
-
-const comparar = 5 >= 10;
-console.log(comparar)
+vigilante = (mayorEdad && tieneEntrada) || (permisoPadres) ; // Si est condicion no se cumple que cumpla la siguiente.
+console.log(vigilante)
 
 
-//operador ternario o condicional
-const comprobacion = 7 > 1? 'es mayor' : 'es menor';
-console.log(comprobacion)
+//ejemplo 2
+
+let variable = true
+
+console.log(!variable)
