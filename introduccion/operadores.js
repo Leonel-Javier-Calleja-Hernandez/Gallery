@@ -16,3 +16,7 @@ console.log(vigilante)
 let variable = true
 
 console.log(!variable)
+
+//operador ternario
+const comprobacion = 7 > 1? 'es mayor' : 'es menor';
+console.log(comprobacion)
