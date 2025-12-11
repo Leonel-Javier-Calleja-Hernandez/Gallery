@@ -3,6 +3,8 @@ let colors = ['red', 'blue', 'white']
 //transformarlo a texto y madarlo a el body
 document.body.innerHTML = `<button>${colors.toString()}</button>`
 
+//contar cantidad de el array
+colors.length
 // lo transforma a texto y separa el arreglo a un texto
 console.log(colors.join(' - '))
 
