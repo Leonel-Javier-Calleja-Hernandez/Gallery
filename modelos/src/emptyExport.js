@@ -1,0 +1,1 @@
+console.log("codigo completo de js, Pero ls variables y funciones NO")

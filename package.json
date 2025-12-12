@@ -1,5 +1,5 @@
 {
-  "types": "module",
+  "type": "commonjs",
   "name": "gallery",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000G\u0000a\u0000l\u0000l\u0000e\u0000r\u0000y\u0000\r\u0000 \u0000",
@@ -15,7 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Leonel-Javier-Calleja-Hernandez/Gallery/issues"
   },
